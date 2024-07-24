@@ -14,18 +14,24 @@
 
 ---
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://static.vecteezy.com/system/resources/previews/002/248/232/non_2x/programmer-computer-expert-chalk-white-icon-on-black-background-vector.jpg">
-</a>
-<br>
-
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently learning **ASP.NET Core**
 
-- 💬 Ask me about **C#, JAVA and React JS**
+- 🧑‍🎓 I’m an Undergraduate at **University of Jaffna**
+
+- 💬 Ask me about **Front End Development**
 
 - 📫 How to reach me **awishmadhushan0919@gmail.com**
 
----
+</td>
+   <td width="50%" align="center">
+     <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+   </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,7 +69,7 @@
 ---
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rupasinghe99&theme=dark&hide_border=false&no-bg=true&no-frame=true" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rupasinghe99&theme=dark&hide_border=false&no-bg=true&no-frame=true" alt="muhammadfaizanhaidar"/></p>
 
 <hr>
 <p align="center">
