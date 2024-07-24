@@ -15,7 +15,7 @@
 ---
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://karin-benzaken.com/static/media/coding.7f82ddda.jpg">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://static.vecteezy.com/system/resources/previews/002/248/232/non_2x/programmer-computer-expert-chalk-white-icon-on-black-background-vector.jpg">
 </a>
 <br>
 
