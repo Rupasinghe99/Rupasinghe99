@@ -1,20 +1,43 @@
-<h1 align="center">Hi 👋, I'm Awishka Rupasinghe</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rupasinghe99&label=Profile%20views&color=0e75b6&style=flat" alt="rupasinghe99" /> </p>
 
----
+Conversation opened. 1 unread message.
 
-- 🌱 I’m currently learning **.NET Framework, Spring boot**
+Skip to content
+Using Gmail with screen readers
+1 of 1,845
+(no subject)
+Inbox
 
-- 📫 How to reach me **awishmadhushan0919@gmail.com**
+Ashma Sandeepa
+23:42 (4 minutes ago)
+to me
+
+<div align=center>
+        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sandeepa+%F0%9F%91%8B;Information+Technology+Student;Problem+Solver;.NET+Developer;Cloud+Computing+Enthusiast" alt="Headline" />
+    </div>
+<h3 align="center">A passionate ASP.NET Core Full-Stack developer from Sri Lanka</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandeepa999&color=brightgreen" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-ASP.NET%20Core-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+
 
 <a target="_blank" align="center">
-  <img align="right" top="0" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
 </a>
 
-| ![github stats](https://github-readme-stats.vercel.app/api/?username=rupasinghe99&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupasinghe99&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupasinghe99&theme=tokyonight) | 
+- 🌱 I’m currently learning **ASP.NET Core**
+
+- 💬 Ask me about **C#, JAVA and React JS**
+
+- 📫 How to reach me **sandeepajayawickrama@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +45,8 @@
 <a href="https://fb.com/avi.madhushan.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avi.madhushan.99" height="40" width="40" /></a>
 <a href="https://instagram.com/avi_m_ruu99" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="avi_m_ruu99" height="40" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -47,3 +72,18 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/XD.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepa999&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
+
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeepa999&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sandeepa999&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+
